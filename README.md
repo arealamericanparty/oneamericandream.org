@@ -3,6 +3,8 @@ One American Dream.org Public Repo for digitally storing and recording American 
 
 http://oneamericandream.org
 
+All Pull Requests that meet the specified requirments below will be accepted and published as is. 
+
 We The People publish this static website to the open internet in an effor to publicly commit, record and track
 the one american dream each american has in thier mind, body and soul. 
 
@@ -11,6 +13,5 @@ The convention is a flat heirarchy where each american has their own directory t
 record and track.
 
 Builds go out once a week. 
-
 
 FundedByWeThePeople.org
